@@ -5,8 +5,8 @@
 
 ## B, Siara
 * Obecny Behemot Arrogatorów, ale tylko za pierwszym razem.
-* Za drugim razem badaliśmy stellę.
-* Za trzecim razem zabiliśmy Behemota.
+* Za drugim razem badaliśmy [stelę](./stele.md), wybraliśmy opcję "Materiał steli". :21:
+* Za trzecim razem zabiliśmy Behemota. :40: [X| | ]
 
 **Zapis:**
 * L3, brak unikalnych, brak niebezpieczeństw
