@@ -29,7 +29,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 🪐 **Lądowanie na 81-Inf B.**
 * W górnym prawym rogu planszy, w wulkanie nie napotykamy tym razem Behemota, 
-  wspinamy się na iglicę i badamy napotkaną [stelę](stele.md): 
+  wspinamy się na iglicę i badamy napotkaną [stelę](stele.md):  
   :6: -> :8: [X|X| ] -> :615: -> :616: -> :55: -> [stela](stele.md) -> :21:
 * Kopiemy złoże. :140: [X|X| ]
 * **Odlot.** :440: -> :444: [X| ] -> :510:
