@@ -1,7 +1,7 @@
 81 Inf
 ================================================================================
 ## A
-* 
+* Zbadany.
 
 ## B, Siara
 * Obecny Behemot Arrogatorów, ale tylko za pierwszym razem.
@@ -17,3 +17,6 @@
 * 5 -> P075 Zdradliwe obozowisko
 * 6 -> P011 Wejście do jaskini
 * 7 -> P075 Zdradliwe obozowisko
+
+## C
+* Gazowy olbrzym, zbadany.

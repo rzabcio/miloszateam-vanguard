@@ -23,7 +23,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 ## 2024-08-05
 🚀 **Zarządzanie statkiem.**
-* Zostajemy w [81-Inf](81-Inf.md).
+* Zostajemy w [81-Inf](81-Inf.md), by drugi raz lądować na Siarze.
 * :291: [X] Badamy gorący gazowy olbrzym C.
 * Badania, produkcja i narada.
 
@@ -42,6 +42,6 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 🪐 **Lądowanie na 81-Inf B.**
 * Zabijamy Behemota pierwszy raz. :40: [X| | ]
-* Wyczerpunjemy złoże. :140: [X|X|X]
+* Wyczerpujemy złoże. :140: [X|X|X]
 * Badamy iglicę. :6: -> :8: -> :220: -> :221: [X]
 * **Odlot.** :440: -> :19: [X] (S13)
