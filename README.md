@@ -1,5 +1,5 @@
 Drużyna Miłosza -- notatki ISS Vanguard
 ================================================================================
 
-* [kampania bazowa](kampania-bazowa.md)
+* [kampania bazowa](./2024_kampania_bazowa/README.md)
 
