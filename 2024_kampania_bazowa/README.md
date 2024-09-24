@@ -55,16 +55,33 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 * Lecimy do [Toi-2](Toi-2.md) zbadać prostopadłościan. Okazał się radioaktywy, 
   ale główny naukowiec wyprawy zdecydował zabrać go na pokład i napromieniować 
   połowę załogi, w tym zahibernowanych. ;)
-* Przelecieliśmy do [Nu4 Ceti](Nu4-Ceti.md), by lądować na Siarze.
+* Przelecieliśmy do [Nu4 Ceti](Nu4_Ceti.md), by lądować na Siarze.
 
 🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
-* *Lądowanie:* :417:418:53:
-* Misja: złapać dwa **Pędy**.
+* *Lądowanie:* :417:418:53: *Misja:* złapać dwa **Pędy**.
 * :245: ▣▣ :238:245: Pojawiła się **Żarłoczna gęstwina**.
 * Nie zdążyliśmy w czasie złapać **Pędów** -> :202:
 * **Żarłoczna gęstwina** zabita -> :201:
 * Przebadaliśmy Wiszące ogrody -> :246:
 * Lokacja 7 -> :289: ▣▢ :303: :8: ▣▣▣ :220: :213: (Stela?)
-* Złapaliśmy dwa pędy na 7 -> :234: :242:
+* Złapaliśmy dwa pędy na 7 -> :234: :242: -> odkrycie flora
 * Lokacja 7 -> :69: badamy miejsce i odkrywamy skarbiec obcych
 * *Odlot:* :440: rozładunek unikalnego 7 -> :392:
+
+## 2024-09-02
+🚀 **Zarządzanie statkiem.**
+* Zostajemy w [Nu4 Ceti](Nu4_Ceti.md), badamy księżyc Zapałki: B1.
+* Rozwiązujemy kryzysy.
+* Badamy **Zabytek budowniczych** :51: ▣▢  :47:55: 
+  co daje nam drugi punkt badania [Steli](stele.md) -> :26:
+* Budujemy dwa nowe lądowniki (Ważka i Faustschlag), oraz wieżyczkę modułową.
+
+🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
+* *Lądowanie:* :417:418:115: *Misja:* mamy znaleźć trzy odkrycia.
+* Pole 5 -> :245:
+* Badamy Skarbiec Budowniczych w 7 -> :160: ▣ 
+  decydujemy się rozebrać maszynę Budowniczych bez jej włączania -> :152: 
+  unikalne znalezisko 10 + zdarzenie S12, zmiana na P141 Opuszczona Jaskinia
+* Badamy dalej lokację 7 -> :393: zamiana lokacji na P142 Nieskończony labirynt
+* ... który udaje się zbadać -> :418:
+
