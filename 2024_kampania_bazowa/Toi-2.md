@@ -2,4 +2,4 @@ Toi-2
 ================================================================================
 
 ## A Prostopadłościan
-Zbadany: :156: ▣ zabraliśmy radioaktywny prostopadłościan na pokład.
+Zbadany: #p156 ▣ zabraliśmy radioaktywny prostopadłościan na pokład.

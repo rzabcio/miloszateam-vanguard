@@ -15,41 +15,41 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 * Narada, rekrutacja i produkcja.
 
 🪐 **Lądowanie na 81-Inf B.**
-* :267: [X] ??
-* :35: [X| ] ??
-* :8: [X| | ] Behemot?
-* **Odlot.** :445: [X| ]
+* #p267 ▣ ??
+* #p35 ▣▢ ??
+* #p8 ▣▢▢ Behemot?
+* **Odlot.** #p445 ▣▢
 
 
 ## 2024-08-05
 🚀 **Zarządzanie statkiem.**
 * Zostajemy w [81-Inf](81-Inf.md), by drugi raz lądować na Siarze.
-* :291: [X] Badamy gorący gazowy olbrzym C.
+* #p291 ▣ Badamy gorący gazowy olbrzym C.
 * Badania, produkcja i narada.
 
 🪐 **Lądowanie na 81-Inf B.**
 * W górnym prawym rogu planszy, w wulkanie nie napotykamy tym razem **Behemota**, 
-  wspinamy się na iglicę i badamy napotkaną [stelę](stele.md):
-  :6: -> :8: [X|X| ] -> :615: -> :616: -> :55: -> [stela](stele.md) -> :21:
-* Kopiemy złoże. :140: [X|X| ]
-* **Odlot.** :440: -> :444: [X| ] -> :510:
+  wspinamy się na iglicę i badamy napotkaną [stelę](stele.md)
+  #p6 -> #p8 ▣▣▢ -> #p615 -> #p616 -> #p55 -> [stela](./stele.md) -> #p21
+* Kopiemy złoże. #p140 ▣▣▢
+* **Odlot.** #p440 -> #p444 ▣▢ -> #p510
 
 🚀 **Zarządzanie statkiem.**
 * Nadal zostajemy, by ponownie lądować na Siarze.
 * Narada, rekrutacja, badania, produkcja.
-  * badanie R02 Analiza wiadomości -> :100:
-  * badanie R09 Czarny Rycerz -> :730: :735:
+  * badanie R02 Analiza wiadomości -> #p100
+  * badanie R09 Czarny Rycerz -> #p730 #p735
 
 🪐 **Lądowanie na 81-Inf B.**
-* Zabijamy **Behemota** pierwszy raz. :40: [X| | ]
-* Wyczerpujemy złoże. :140: [X|X|X]
-* Badamy iglicę. :6: -> :8: -> :220: -> :221: [X]
-* *Odlot:* :440: -> :19: [X] (S13)
+* Zabijamy **Behemota** pierwszy raz. #p40 ▣▢▢
+* Wyczerpujemy złoże. #p140 ▣▣▣
+* Badamy iglicę. #p6 -> #p8 -> #p220 -> #p221 ▣
+* *Odlot:* #p440 -> #p19 ▣ (S13)
 
 
 ## 2024-08-27
 🚀 **Zarządzanie statkiem.**
-* Możemy wykrywać stele Budowniczych z daleka. :509:
+* Możemy wykrywać stele Budowniczych z daleka. #p509
 * Dostajemy nowy cel, O4 "Skarbnica wiedzy", mamy udać się do 
   systemu [Kepler 831](Kepler-831.md).
 * Lecimy do [Toi-2](Toi-2.md) zbadać prostopadłościan. Okazał się radioaktywy, 
@@ -58,30 +58,30 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 * Przelecieliśmy do [Nu4 Ceti](Nu4_Ceti.md), by lądować na Siarze.
 
 🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
-* *Lądowanie:* :417:418:53: *Misja:* złapać dwa **Pędy**.
-* :245: ▣▣ :238:245: Pojawiła się **Żarłoczna gęstwina**.
-* Nie zdążyliśmy w czasie złapać **Pędów** -> :202:
-* **Żarłoczna gęstwina** zabita -> :201:
-* Przebadaliśmy Wiszące ogrody -> :246:
-* Lokacja 7 -> :289: ▣▢ :303: :8: ▣▣▣ :220: :213: (Stela?)
-* Złapaliśmy dwa pędy na 7 -> :234: :242: -> odkrycie flora
-* Lokacja 7 -> :69: badamy miejsce i odkrywamy skarbiec obcych
-* *Odlot:* :440: rozładunek unikalnego 7 -> :392:
+* *Lądowanie:* #p417 #p418 #p53 *Misja:* złapać dwa **Pędy**.
+* #p245 ▣▣ #p238 #p245 Pojawiła się **Żarłoczna gęstwina**.
+* Nie zdążyliśmy w czasie złapać **Pędów** -> #p202
+* **Żarłoczna gęstwina** zabita -> #p201
+* Przebadaliśmy Wiszące ogrody -> #p246
+* Lokacja 7 -> #p289 ▣▢ #p303 #p8 ▣▣▣ #p220 #p213 (Stela?)
+* Złapaliśmy dwa pędy na 7 -> #p234 #p242 -> odkrycie flora
+* Lokacja 7 -> #p69 badamy miejsce i odkrywamy skarbiec obcych
+* *Odlot:* #p440 rozładunek unikalnego 7 -> #p392
 
 ## 2024-09-02
 🚀 **Zarządzanie statkiem.**
 * Zostajemy w [Nu4 Ceti](Nu4_Ceti.md), badamy księżyc Zapałki: B1.
 * Rozwiązujemy kryzysy.
-* Badamy **Zabytek budowniczych** :51: ▣▢  :47:55: 
-  co daje nam drugi punkt badania [Steli](stele.md) -> :26:
+* Badamy **Zabytek budowniczych** #p51 ▣▢  #p47 #p55 
+  co daje nam drugi punkt badania [Steli](stele.md) -> #p26
 * Budujemy dwa nowe lądowniki (Ważka i Faustschlag), oraz wieżyczkę modułową.
 
 🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
-* *Lądowanie:* :417:418:115: *Misja:* mamy znaleźć trzy odkrycia.
-* Pole 5 -> :245:
-* Badamy Skarbiec Budowniczych w 7 -> :160: ▣ 
-  decydujemy się rozebrać maszynę Budowniczych bez jej włączania -> :152: 
+* *Lądowanie:* #p417 #p418 #p115 *Misja:* mamy znaleźć trzy odkrycia.
+* Pole 5 -> #p245
+* Badamy Skarbiec Budowniczych w 7 -> #p160 ▣ 
+  decydujemy się rozebrać maszynę Budowniczych bez jej włączania -> #p152
   unikalne znalezisko 10 + zdarzenie S12, zmiana na P141 Opuszczona Jaskinia
-* Badamy dalej lokację 7 -> :393: zamiana lokacji na P142 Nieskończony labirynt
-* ... który udaje się zbadać -> :418:
+* Badamy dalej lokację 7 -> #p393 zamiana lokacji na P142 Nieskończony labirynt
+* ... który udaje się zbadać -> #p418
 
