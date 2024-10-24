@@ -64,7 +64,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Lecimy do [Toi-2](Toi-2.md) zbadać prostopadłościan. Okazał się radioaktywy,
   ale główny naukowiec wyprawy zdecydował zabrać go na pokład i napromieniować
   połowę załogi, w tym zahibernowanych. ;)
-- Przelecieliśmy do [Nu4 Ceti](Nu4_Ceti.md), by lądować na Siarze.
+- Przelecieliśmy do [Nu4 Ceti](Nu4-Ceti.md), by lądować na Siarze.
 
 🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
 
@@ -83,7 +83,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 🚀 **Zarządzanie statkiem.**
 
-- Zostajemy w [Nu4 Ceti](Nu4_Ceti.md), badamy księżyc Zapałki: B1.
+- Zostajemy w [Nu4 Ceti](Nu4-Ceti.md), badamy księżyc Zapałki: B1.
 - Rozwiązujemy kryzysy.
 - Badamy **Zabytek budowniczych** #p51 ▣▢ #p47 #p55
   co daje nam drugi punkt badania [Steli](stele.md) -> #p26
@@ -99,3 +99,29 @@ Lecimy dalej, do [Toi-2](toi-2.md).
   unikalne znalezisko 10 + zdarzenie S12, zmiana na P141 Opuszczona Jaskinia
 - Badamy dalej lokację 7 -> #p393 zamiana lokacji na P142 Nieskończony labirynt
 - ... który udaje się zbadać -> #p418
+
+## 2024-10-24
+
+### 🚀 Zarządzanie statkiem
+
+- Badamy [Nu4 Ceti](Nu4-Ceti.md) C, Nilfheim. Dostaliśmy osłonę energetyczną
+  (E37).
+- Lecimy do [Gyf-4](gyf-4.md), z zamiarem lądowania na Burzogromie.
+- Wcześniej jednak zdobywamy energię na A, by zbadać Czarny odłamek.
+- Rozwiązujemy kryzysy, rekturujemy nowych załogantów.
+- Badamy **Przetrwanie w ekstremalnych biomach** R07.
+
+### 🪐 Lądowanie na Burzogromie
+
+- _Lądowanie_: #p60 bez problemu.
+- Wyciągamy rzeczy z rozbitego lądownika na polu 1 -> P000.
+- Przechowimy przez **wyrojony płaskowyż** w 3 na **samotny szpon**.
+- Dalej rozpoczynamy **wspinaczkę** 3 -> P172 i docieramy na szczyt -> P173,
+  który okazuje się punktem bez powrotu/ewakuacją. (Cofamy te akcje.)
+- Przechodzimy równocześnie do **martwego lasu** w 4, który po zbadaniu
+  zamienia się w **las kości**. Podczas jego badania #p235
+- Idziemy do 5 #p416 gdzie odkrywamy obozowisko -> P075.
+- W 7 znajdujemy **mleczko pszczele**.
+- Uciekamy przez lądowisko na szponie 6 gonieni przez roztocza #p70 -> #p172
+  gonią nas roztocza, udaje nam się przeżyć tylko dzięki odrzuceniu **mleczka**
+  -> #p203.

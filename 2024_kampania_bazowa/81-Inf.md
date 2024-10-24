@@ -2,7 +2,7 @@
 
 ## A
 
-- Zbadany.
+Zbadany.
 
 ## B, Siara
 
@@ -23,4 +23,4 @@
 
 ## C
 
-- Gazowy olbrzym, zbadany.
+Gazowy olbrzym, zbadany.
