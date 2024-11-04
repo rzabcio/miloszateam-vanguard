@@ -125,3 +125,41 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Uciekamy przez lądowisko na szponie 6 gonieni przez roztocza #p70 -> #p172
   gonią nas roztocza, udaje nam się przeżyć tylko dzięki odrzuceniu **mleczka**
   -> #p203.
+
+## 2024-11-04
+
+### 🚀 Zarządzanie statkiem
+
+- Lecimy do [MP-212](mp-212.md), badamy, co się da, dostajemy A15 i A19.
+- Lecimy do [Kepler 831](kepler_831.md), celem lądowania na sygnale stel.
+
+### 🪐 Lądowanie na Burzogromie
+
+- Obce siły dokonują abordażu, musimy się bronić. ... -> #p75
+- Naprawiamy mostek #p188
+- Przechodzimy do sektora 2: #p402 gdzie dowiadujemy się, że Vangard bęzie mieć
+  różne kryzysy
+- Pierwszy to spanikowany tłum (P231), który uspokajamy wysyłając załogę:
+  #p409 -> #p474 załoga od razu zreaalizowała postę, ale otrzymuje rany -> #p461
+- Przechodzimy do 7 #p710 pojawia się atak na mostku) i dalej do 5,
+  gdzie odpieramy pierwszy atak (P233) odkrywając zbrojownię (P235)
+- W 3 musimy zamknąć grodzie #p622 -> #p724 -> #p732
+-
+- W 7 kolejny kryzys, arogatorzy próbują zablokować kapsuły ratunkowe,
+  udaje nam się jednak ochronić #p376 -> #p371 -> #p436 -> #p502
+- Czyścimy atak (P233) w 4 #p599 -> #p607 wysyłamy ekipę by staranowała
+  krążownik przeciwników #p142 ale nie udaje się rozbić, decydujemy się
+  zaatakować normalnie. Po komplikacjach udaje się zrobić #p127, dzięki czemu
+  możemy badać szczątki #p378
+- W międzyczasie czyścimy z atakujących 6 i wracamy na mostek, by też z niego
+  wyrzucić przeciwnika (P233). Walka na mostku idzie na tyle ciężko, że
+  kończy się czas i pojawia się **rój bojowy arogatorów**.
+- Pomagamy archiwiście #p535 -> #p541 (P239).
+- Wreszcie odpieramy atak na mostek #p87 -> #p164, ale okazuje się, że chcą
+  zniszczyć rdzeń, musimy więc wcześniej zabić rój, co się udaje #p813.
+- Zaraz potem bronimy rdzeń #p180 -> #p149 -> #p158 przy asyście nieznanych
+  gości...
+- Podczas rozładunku **maska gościa** #p746
+- Cała akcja obniżyła nam poziom technologiczny na 0 oraz zniszczyła
+  ciężki pancerz. To sprawia, że nie możemy daleko lecieć i naszym
+  kolejnym celem powinien być jakiś zamieszkały obszar, żeby się naprawić.
