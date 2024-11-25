@@ -7,7 +7,8 @@ Zbadany.
 ## B, Siara
 
 - Obecny Behemot Arrogatorów, ale tylko za pierwszym razem.
-- Za drugim razem badaliśmy [stelę](./stele.md), wybraliśmy opcję "Materiał steli". #21
+- Za drugim razem badaliśmy [stelę](./stele.md), wybraliśmy opcję "Materiał
+  steli". #21
 - Za trzecim razem zabiliśmy Behemota. #40 ▣▢▢
 
 **Zapis.** Stan po trzeciej wizycie 2024-08-05#

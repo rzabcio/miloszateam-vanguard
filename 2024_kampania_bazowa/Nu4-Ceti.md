@@ -20,7 +20,7 @@ Pierwsza wizyta 2024
 
 ## B1
 
-Zbadane 2024-09-02. Księżyc z aminokwasami, przyszłymi formami życia
--> zbieramy **Mikroorganizm**.
+Zbadane 2024-09-02. Księżyc z aminokwasami, przyszłymi formami życia -> zbieramy
+**Mikroorganizm**.
 
 ## C
