@@ -219,4 +219,4 @@ Lecimy dalej, do [Toi-2](toi-2.md).
   nacje, czy podejść dyplomatycznie. Decydujemy się na to drugie #p519
 
 **Na przyszłej rozgrywce**: skończyć #p519 (wrzuciliśmy event i zacznaczyliśmy A
-w #p920).
+w #p920). Zrobiliśmy już jednak powrót i rozładunek.
