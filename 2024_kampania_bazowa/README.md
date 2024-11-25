@@ -34,9 +34,9 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 🪐 **Lądowanie na 81-Inf B.**
 
-- W górnym prawym rogu planszy, w wulkanie nie napotykamy tym razem **Behemota**,
-  wspinamy się na iglicę i badamy napotkaną [stelę](stele.md)
-  #p6 -> #p8 ▣▣▢ -> #p615 -> #p616 -> #p55 -> [stela](./stele.md) -> #p21
+- W górnym prawym rogu planszy, w wulkanie nie napotykamy tym razem
+  **Behemota**, wspinamy się na iglicę i badamy napotkaną [stelę](stele.md) #p6
+  -> #p8 ▣▣▢ -> #p615 -> #p616 -> #p55 -> [stela](./stele.md) -> #p21
 - Kopiemy złoże. #p140 ▣▣▢
 - **Odlot.** #p440 -> #p444 ▣▢ -> #p510
 
@@ -59,8 +59,8 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 🚀 **Zarządzanie statkiem.**
 
 - Możemy wykrywać stele Budowniczych z daleka. #p509
-- Dostajemy nowy cel, O4 "Skarbnica wiedzy", mamy udać się do
-  systemu [Kepler 831](Kepler-831.md).
+- Dostajemy nowy cel, O4 "Skarbnica wiedzy", mamy udać się do systemu
+  [Kepler 831](Kepler-831.md).
 - Lecimy do [Toi-2](Toi-2.md) zbadać prostopadłościan. Okazał się radioaktywy,
   ale główny naukowiec wyprawy zdecydował zabrać go na pokład i napromieniować
   połowę załogi, w tym zahibernowanych. ;)
@@ -68,8 +68,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
 
-- _Lądowanie:_ #p417 #p418 #p53
-  _Misja:_ złapać dwa **Pędy**.
+- _Lądowanie:_ #p417 #p418 #p53 _Misja:_ złapać dwa **Pędy**.
 - #p245 ▣▣ #p238 #p245 Pojawiła się **Żarłoczna gęstwina**.
 - Nie zdążyliśmy w czasie złapać **Pędów** -> #p202
 - **Żarłoczna gęstwina** zabita -> #p201
@@ -85,18 +84,17 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 - Zostajemy w [Nu4 Ceti](Nu4-Ceti.md), badamy księżyc Zapałki: B1.
 - Rozwiązujemy kryzysy.
-- Badamy **Zabytek budowniczych** #p51 ▣▢ #p47 #p55
-  co daje nam drugi punkt badania [Steli](stele.md) -> #p26
+- Badamy **Zabytek budowniczych** #p51 ▣▢ #p47 #p55 co daje nam drugi punkt
+  badania [Steli](stele.md) -> #p26
 - Budujemy dwa nowe lądowniki (Ważka i Faustschlag), oraz wieżyczkę modułową.
 
 🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
 
-- _Lądowanie:_ #p417 #p418 #p115
-  _Misja:_ mamy znaleźć trzy odkrycia.
+- _Lądowanie:_ #p417 #p418 #p115 _Misja:_ mamy znaleźć trzy odkrycia.
 - Pole 5 -> #p245
-- Badamy Skarbiec Budowniczych w 7 -> #p160 ▣
-  decydujemy się rozebrać maszynę Budowniczych bez jej włączania -> #p152
-  unikalne znalezisko 10 + zdarzenie S12, zmiana na P141 Opuszczona Jaskinia
+- Badamy Skarbiec Budowniczych w 7 -> #p160 ▣ decydujemy się rozebrać maszynę
+  Budowniczych bez jej włączania -> #p152 unikalne znalezisko 10 + zdarzenie
+  S12, zmiana na P141 Opuszczona Jaskinia
 - Badamy dalej lokację 7 -> #p393 zamiana lokacji na P142 Nieskończony labirynt
 - ... który udaje się zbadać -> #p418
 
@@ -118,8 +116,8 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Przechowimy przez **wyrojony płaskowyż** w 3 na **samotny szpon**.
 - Dalej rozpoczynamy **wspinaczkę** 3 -> P172 i docieramy na szczyt -> P173,
   który okazuje się punktem bez powrotu/ewakuacją. (Cofamy te akcje.)
-- Przechodzimy równocześnie do **martwego lasu** w 4, który po zbadaniu
-  zamienia się w **las kości**. Podczas jego badania #p235
+- Przechodzimy równocześnie do **martwego lasu** w 4, który po zbadaniu zamienia
+  się w **las kości**. Podczas jego badania #p235
 - Idziemy do 5 #p416 gdzie odkrywamy obozowisko -> P075.
 - W 7 znajdujemy **mleczko pszczele**.
 - Uciekamy przez lądowisko na szponie 6 gonieni przez roztocza #p70 -> #p172
@@ -139,27 +137,27 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Naprawiamy mostek #p188
 - Przechodzimy do sektora 2: #p402 gdzie dowiadujemy się, że Vangard bęzie mieć
   różne kryzysy
-- Pierwszy to spanikowany tłum (P231), który uspokajamy wysyłając załogę:
-  #p409 -> #p474 załoga od razu zreaalizowała postę, ale otrzymuje rany -> #p461
-- Przechodzimy do 7 #p710 pojawia się atak na mostku) i dalej do 5,
-  gdzie odpieramy pierwszy atak (P233) odkrywając zbrojownię (P235)
+- Pierwszy to spanikowany tłum (P231), który uspokajamy wysyłając załogę: #p409
+  -> #p474 załoga od razu zreaalizowała postę, ale otrzymuje rany -> #p461
+- Przechodzimy do 7 #p710 pojawia się atak na mostku) i dalej do 5, gdzie
+  odpieramy pierwszy atak (P233) odkrywając zbrojownię (P235)
 - W 3 musimy zamknąć grodzie #p622 -> #p724 -> #p732
 -
-- W 7 kolejny kryzys, arogatorzy próbują zablokować kapsuły ratunkowe,
-  udaje nam się jednak ochronić #p376 -> #p371 -> #p436 -> #p502
+- W 7 kolejny kryzys, arogatorzy próbują zablokować kapsuły ratunkowe, udaje nam
+  się jednak ochronić #p376 -> #p371 -> #p436 -> #p502
 - Czyścimy atak (P233) w 4 #p599 -> #p607 wysyłamy ekipę by staranowała
   krążownik przeciwników #p142 ale nie udaje się rozbić, decydujemy się
   zaatakować normalnie. Po komplikacjach udaje się zrobić #p127, dzięki czemu
   możemy badać szczątki #p378
 - W międzyczasie czyścimy z atakujących 6 i wracamy na mostek, by też z niego
-  wyrzucić przeciwnika (P233). Walka na mostku idzie na tyle ciężko, że
-  kończy się czas i pojawia się **rój bojowy arogatorów**.
+  wyrzucić przeciwnika (P233). Walka na mostku idzie na tyle ciężko, że kończy
+  się czas i pojawia się **rój bojowy arogatorów**.
 - Pomagamy archiwiście #p535 -> #p541 (P239).
 - Wreszcie odpieramy atak na mostek #p87 -> #p164, ale okazuje się, że chcą
   zniszczyć rdzeń, musimy więc wcześniej zabić rój, co się udaje #p813.
 - Zaraz potem bronimy rdzeń #p180 -> #p149 -> #p158 przy asyście nieznanych
   gości...
 - Podczas rozładunku **maska gościa** #p746
-- Cała akcja obniżyła nam poziom technologiczny na 0 oraz zniszczyła
-  ciężki pancerz. To sprawia, że nie możemy daleko lecieć i naszym
-  kolejnym celem powinien być jakiś zamieszkały obszar, żeby się naprawić.
+- Cała akcja obniżyła nam poziom technologiczny na 0 oraz zniszczyła ciężki
+  pancerz. To sprawia, że nie możemy daleko lecieć i naszym kolejnym celem
+  powinien być jakiś zamieszkały obszar, żeby się naprawić.
