@@ -18,8 +18,20 @@
 - #p267 ▣
 - #p291 ▣
 - #p323 ▣
+- #p428 ▣
 - #p444 ▣ ▣
 - #p445 ▣ ▣
+- #p454 ▢ ▣ ▢
 - #p504 ▣
+- #p608 ▣
+- #p695 ▣
 - #p710 ▣ ? (many)
+- #p734 ▣
+- #p781 ▣
 - #p813 ▣ ▢ ▢
+- #p875 ▣ ▢
+- #p878 ▣
+- #p883 ▣
+- #p905 ▣ ▣ ▣ ▣ ▣ ▣
+- #p910 ▣ ▢ ▢ (dołączył do nas Idemiański ambasador)
+- #p920 ▣ ▢ (pokojowy, dyplomatyczny rozwój)

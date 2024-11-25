@@ -174,4 +174,49 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 ### 🪐 Lądowanie na Idemiańskiej koterii (Gliese 368-2)
 
--
+- Lądujemy #p875 -> #p755 -> #p726 -> #p715 -> #p454
+- Mamy trzy miejsca do zbadania: święte miasto obcych (choć opuszczone),
+  zanurzone stele, zbieranie odkryć i obserwowanie pielgrzymów wędrujących po
+  jałowych równinach.
+- Decudyjemy się badać stele #p619 -> misja M121 -> #p736. Wita nas stworzenie z
+  tacą z kadzidłem i białym proszkiem, którym posypujemy sobie głowę. Obcy jest
+  jednak rozczarowany. Musimy lepiej zrozumieć jego cywilizację... -> #p336
+  dostajemy M123.
+- Wędrujemy przez 2 **Śpiące olbrzymy** do 3 **Luminoscencyjnych gąbek**, które
+  zamienia się w **Nieśmiałą gąbkę** i ucieka do jaskini.
+- Wchodzimy do jaskini #p770 -> kierujemy stworzenie do korytarzy aż docieramy
+  do #p792, dzięki czemu odkrywamy lokację 4 P281 **Łowcy z głębin**, z którymi
+  musimy walczyć.
+- Wygrywamy #p883, ale okazuje się, że to nic nie daje, musimy wrócić wyżej,
+  zagonić gąbkę do łowców, co pozwala nam przegonić łowców z lokacji 4 i odkryć
+  P286 **Zatopione pole bitwy**.
+- Po zbadaniu pola bitwy #p734 znajdujemy [stele](stele.md) i decudujemy się
+  wybrać **Kotwice grawitacyjne**. Kończymy też misję P123 i dostajemy wpis w
+  #p905 B.
+- Idziemy do 8 na **Jałowe równiny** #p516 -> #p526 -> #p538 i odkrywamy P282
+  **Odkryte bulwy**.
+- Równocześnie badamy 5 **Zewnętrzne mury** #p344 i trafiamy na P271 **Warsztat
+  wytwórcy masek**.
+- Badamy w 8 **Odkryte bulwy** #p592 zyskując unikalne odkrycie 12 i kolejny
+  wpis w #p905 C.
+- Rozmawiamy też w 5 z wytwórcą masek #p612 i decydujemy się mu pomóc w pracy z
+  P272 **Dziwną tokarką** #p618 -> #p630 i pytamy wytwórcę o znaczenie maski
+  #p695 co daje nam wpis A w #p905. Możemy dalej go zapytać, dlaczego miasto
+  jest puste #p717
+- Badamy w 9 **Drzewa butelkowe** #p608 ...
+- Idziemy wgłąb miasta do 6 #p451 -> P279 -> P273 -> #p412 otrzymujemy wpis E w
+  #p905
+- Idziemy do 10 zmieniając **Stojące głazy** w P284 **Centralny punkt** -> #p480
+  zyskując sukces.
+- Ponownie idziemy wgłąb P279 **Lustrzanego miasta** -> P273 skręcając tym razem
+  tak, by dotrzeć do P277 **Milcząca koteria** #p534 odkrywając, jak wyglądały
+  rządy obcych i zyskując wpis D w #p905, czyli ostatni.
+- Wracamy do przybysza z tacami #p370 -> #p397 -> #p428 ->
+- Na koniec idziemy do 7 #p545 -> #p570 -> P288 -> #p593
+- Startujemy #p476 -> #p512 -> #p514. Kapitan, ze względu na swój błąd z decyzją
+  o locie do Keplera, decyduje się, że od teraz będzie to demokracja. Jako
+  pierwszą rzecz musimy zdecydować czy będziemy siłowo podbijać inne, słabsze
+  nacje, czy podejść dyplomatycznie. Decydujemy się na to drugie #p519
+
+**Na przyszłej rozgrywce**: skończyć #p519 (wrzuciliśmy event i zacznaczyliśmy A
+w #p920).
