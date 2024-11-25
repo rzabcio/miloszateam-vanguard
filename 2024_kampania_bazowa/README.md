@@ -131,7 +131,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Lecimy do [MP-212](mp-212.md), badamy, co się da, dostajemy A15 i A19.
 - Lecimy do [Kepler 831](kepler_831.md), celem lądowania na sygnale stel.
 
-### 🪐 Lądowanie na Burzogromie
+### 🪐 Lądowanie na Burzogromie (Kepler 831)
 
 - Obce siły dokonują abordażu, musimy się bronić. ... -> #p75
 - Naprawiamy mostek #p188
@@ -161,3 +161,17 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Cała akcja obniżyła nam poziom technologiczny na 0 oraz zniszczyła ciężki
   pancerz. To sprawia, że nie możemy daleko lecieć i naszym kolejnym celem
   powinien być jakiś zamieszkały obszar, żeby się naprawić.
+
+## 2024-11-25
+
+### 🚀 Zarządzanie statkiem (Kepler 831 -> Gliese 368-2)
+
+- Lecimy na [12 Leonis](12_leonis.md), badamy wrak statku i lądujemy na B -
+  Pustynna kolonia.
+- Ta okazuje się pusta, i każe nam lecieć do [Gliese 368-2](gliese_368-2.md).
+- Lądujemy na B - Idemiańska koteria.
+- Poza tym tylko rekrutujemy, szkolimy i rozwiązujemy konflikty.
+
+### 🪐 Lądowanie na Idemiańskiej koterii (Gliese 368-2)
+
+-
