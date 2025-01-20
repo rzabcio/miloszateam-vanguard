@@ -218,5 +218,27 @@ Lecimy dalej, do [Toi-2](toi-2.md).
   pierwszą rzecz musimy zdecydować czy będziemy siłowo podbijać inne, słabsze
   nacje, czy podejść dyplomatycznie. Decydujemy się na to drugie #p519
 
-**Na przyszłej rozgrywce**: skończyć #p519 (wrzuciliśmy event i zacznaczyliśmy A
+**Na przyszłej rozgrywce**: skończyć #p519 (wrzuciliśmy event i zaznaczyliśmy A
 w #p920). Zrobiliśmy już jednak powrót i rozładunek.
+
+## 2025-01-20
+
+### 🚀 Zarządzanie statkiem (Gliese 368-2 -> HR 5730)
+
+- **Nowy cel (O6):** znaleźć starożytnych, Gości lub Arrogatorów:
+  - Golfówka w [LCS-17](lcs-17.md),
+  - Musspelheim w [Mu Librae](mu_librae.md),
+  - Kuzyn w [HR 5730](hr_5730.md)
+  - lub Ugnira w [GJ 1164](gj_1164.md).
+- Poziom technologii wrócił nam na 4 razem z technologią B01.
+- Decydujemy się lecieć do 12 Leonis, by przelecieć dalej do
+  [HR 5730](hr_5730.md).
+- Dyplomacja + rekrutacja + wydarzenia...
+
+### 🪐 Lądowanie na Kuzynie (HR 5730)
+
+- Lądujemy #p354 -> #p375.
+- Przeszukujemy 1: **Podmokłą polanę** #p342, uzyskując unikalne odkrycie 34.
+- Mapujemy 2: **Zdradliwe jary** -> P210 a po abadaniu #p379 ▣
+- Badamy 5: **Żerowisko** #p369, możemy tropić spolegaczy w 1: P213 oraz 3: P212
+  Drugi daje odkrycie żywego okazu, pierwszy zmienia 6: P214.

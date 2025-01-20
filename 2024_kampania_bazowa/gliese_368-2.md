@@ -15,6 +15,8 @@
 
 Zebrane wszystkie unikalne odkrycia.
 
+**Nawiązaliśmy kontakt.** (2025-01-10)
+
 ## B
 
 ## C
