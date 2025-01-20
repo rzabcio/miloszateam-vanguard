@@ -1,5 +1,37 @@
 # Dziennik kapitański
 
+<!-- mtoc-start -->
+
+- [2024-07-??](#2024-07-)
+- [2024-07-25](#2024-07-25)
+- [2024-07-29](#2024-07-29)
+  - [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b)
+- [2024-08-05](#2024-08-05)
+  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem)
+  - [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b-1)
+  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-1)
+  - [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b-2)
+- [2024-08-27](#2024-08-27)
+  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-2)
+  - [🪐 Lądowanie na Zapałce (Nu4 Ceti B)](#-ldowanie-na-zapace-nu4-ceti-b)
+- [2024-09-02](#2024-09-02)
+  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-3)
+  - [🪐 Lądowanie na Zapałce (Nu4 Ceti B)](#-ldowanie-na-zapace-nu4-ceti-b-1)
+- [2024-10-24](#2024-10-24)
+  - [🚀 Zarządzanie statkiem](#-zarzdzanie-statkiem-4)
+  - [🪐 Lądowanie na Burzogromie](#-ldowanie-na-burzogromie)
+- [2024-11-04](#2024-11-04)
+  - [🚀 Zarządzanie statkiem](#-zarzdzanie-statkiem-5)
+  - [🪐 Lądowanie na Burzogromie (Kepler 831)](#-ldowanie-na-burzogromie-kepler-831)
+- [2024-11-25](#2024-11-25)
+  - [🚀 Zarządzanie statkiem (Kepler 831 -> Gliese 368-2)](#-zarzdzanie-statkiem-kepler-831---gliese-368-2)
+  - [🪐 Lądowanie na Idemiańskiej koterii (Gliese 368-2)](#-ldowanie-na-idemiaskiej-koterii-gliese-368-2)
+- [2025-01-20](#2025-01-20)
+  - [🚀 Zarządzanie statkiem (Gliese 368-2 -> HR 5730)](#-zarzdzanie-statkiem-gliese-368-2---hr-5730)
+  - [🪐 Lądowanie na Kuzynie (HR 5730)](#-ldowanie-na-kuzynie-hr-5730)
+
+<!-- mtoc-end -->
+
 Pomiędzy 2024-07, a ...
 
 ## 2024-07-??
@@ -17,7 +49,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Lecimy dalej, do [81-Inf](81-Inf.md).
 - Narada, rekrutacja i produkcja.
 
-🪐 **Lądowanie na 81-Inf B.**
+### 🪐 Lądowanie na 81-Inf B.
 
 - #p267 ▣ ??
 - #p35 ▣▢ ??
@@ -26,13 +58,13 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 ## 2024-08-05
 
-🚀 **Zarządzanie statkiem.**
+### 🚀 Zarządzanie statkiem.
 
 - Zostajemy w [81-Inf](81-Inf.md), by drugi raz lądować na Siarze.
 - #p291 ▣ Badamy gorący gazowy olbrzym C.
 - Badania, produkcja i narada.
 
-🪐 **Lądowanie na 81-Inf B.**
+### 🪐 Lądowanie na 81-Inf B.
 
 - W górnym prawym rogu planszy, w wulkanie nie napotykamy tym razem
   **Behemota**, wspinamy się na iglicę i badamy napotkaną [stelę](stele.md) #p6
@@ -40,14 +72,14 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 - Kopiemy złoże. #p140 ▣▣▢
 - **Odlot.** #p440 -> #p444 ▣▢ -> #p510
 
-🚀 **Zarządzanie statkiem.**
+### 🚀 Zarządzanie statkiem.
 
 - Nadal zostajemy, by ponownie lądować na Siarze.
 - Narada, rekrutacja, badania, produkcja.
   - badanie R02 Analiza wiadomości -> #p100
   - badanie R09 Czarny Rycerz -> #p730 #p735
 
-🪐 **Lądowanie na 81-Inf B.**
+### 🪐 Lądowanie na 81-Inf B.
 
 - Zabijamy **Behemota** pierwszy raz. #p40 ▣▢▢
 - Wyczerpujemy złoże. #p140 ▣▣▣
@@ -56,7 +88,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 ## 2024-08-27
 
-🚀 **Zarządzanie statkiem.**
+### 🚀 Zarządzanie statkiem.
 
 - Możemy wykrywać stele Budowniczych z daleka. #p509
 - Dostajemy nowy cel, O4 "Skarbnica wiedzy", mamy udać się do systemu
@@ -66,7 +98,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
   połowę załogi, w tym zahibernowanych. ;)
 - Przelecieliśmy do [Nu4 Ceti](Nu4-Ceti.md), by lądować na Siarze.
 
-🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
+### 🪐 Lądowanie na Zapałce (Nu4 Ceti B)
 
 - _Lądowanie:_ #p417 #p418 #p53 _Misja:_ złapać dwa **Pędy**.
 - #p245 ▣▣ #p238 #p245 Pojawiła się **Żarłoczna gęstwina**.
@@ -80,7 +112,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
 
 ## 2024-09-02
 
-🚀 **Zarządzanie statkiem.**
+### 🚀 Zarządzanie statkiem.
 
 - Zostajemy w [Nu4 Ceti](Nu4-Ceti.md), badamy księżyc Zapałki: B1.
 - Rozwiązujemy kryzysy.
@@ -88,7 +120,7 @@ Lecimy dalej, do [Toi-2](toi-2.md).
   badania [Steli](stele.md) -> #p26
 - Budujemy dwa nowe lądowniki (Ważka i Faustschlag), oraz wieżyczkę modułową.
 
-🪐 **Lądowanie na Zapałce (Nu4 Ceti B)**
+### 🪐 Lądowanie na Zapałce (Nu4 Ceti B)
 
 - _Lądowanie:_ #p417 #p418 #p115 _Misja:_ mamy znaleźć trzy odkrycia.
 - Pole 5 -> #p245
@@ -242,3 +274,11 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 - Mapujemy 2: **Zdradliwe jary** -> P210 a po abadaniu #p379 ▣
 - Badamy 5: **Żerowisko** #p369, możemy tropić spolegaczy w 1: P213 oraz 3: P212
   Drugi daje odkrycie żywego okazu, pierwszy zmienia 6: P214.
+- Badamy 6: #p398, pojawia się **Krzysztowad** w 2. Dodatkowo usuwamy z 6: P214,
+  na 1: pojawia się P215 (farmienie zasobów), a w 5: P216 (farmienie okazów).
+- Badamy 3: #p314 -> odkrycie 17.
+- Badamy 6: #p422, zmiana na P219 -> #p521 -> #p525
+- Zabijamy **Krysztowada** -> #p435 -> pokazują tajne przejście 4: P217.
+- Przechodzimy do 7: #p441, badamy #p462, zdobywamy [stelę](stele.md)
+  **Centralny glif**.
+- Kończymy zbierając k
