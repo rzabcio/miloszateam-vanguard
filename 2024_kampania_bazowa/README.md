@@ -27,8 +27,13 @@
   - [🚀 Zarządzanie statkiem (Kepler 831 -> Gliese 368-2)](#-zarzdzanie-statkiem-kepler-831---gliese-368-2)
   - [🪐 Lądowanie na Idemiańskiej koterii (Gliese 368-2)](#-ldowanie-na-idemiaskiej-koterii-gliese-368-2)
 - [2025-01-20](#2025-01-20)
-  - [🚀 Zarządzanie statkiem (Gliese 368-2 -> HR 5730)](#-zarzdzanie-statkiem-gliese-368-2---hr-5730)
+  - [🚀 Zarządzanie statkiem (Gliese 368-2 -> 12 Leonis -> HR 5730)](#-zarzdzanie-statkiem-gliese-368-2---12-leonis---hr-5730)
   - [🪐 Lądowanie na Kuzynie (HR 5730)](#-ldowanie-na-kuzynie-hr-5730)
+- [2025-05-12](#2025-05-12)
+  - [🚀 Zarządzanie statkiem (HR 5730 -> Upsilon Borealis)](#-zarzdzanie-statkiem-hr-5730---upsilon-borealis)
+  - [Bez lądowania.](#bez-ldowania)
+  - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Świat gości)](#-zarzdzanie-statkiem-upsilon-borealis---wiat-goci)
+  - [🪐 Lądowanie w Świecie Gości (L6)](#-ldowanie-wwiecie-goci-l6)
 
 <!-- mtoc-end -->
 
@@ -255,7 +260,7 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 
 ## 2025-01-20
 
-### 🚀 Zarządzanie statkiem (Gliese 368-2 -> HR 5730)
+### 🚀 Zarządzanie statkiem (Gliese 368-2 -> 12 Leonis -> HR 5730)
 
 - **Nowy cel (O6):** znaleźć starożytnych, Gości lub Arrogatorów:
   - Golfówka w [LCS-17](lcs-17.md),
@@ -281,4 +286,41 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 - Zabijamy **Krysztowada** -> #p435 -> pokazują tajne przejście 4: P217.
 - Przechodzimy do 7: #p441, badamy #p462, zdobywamy [stelę](stele.md)
   **Centralny glif**.
-- Kończymy zbierając k
+- Kończymy zbierając k... (?)
+
+## 2025-05-12
+
+### 🚀 Zarządzanie statkiem (HR 5730 -> Upsilon Borealis)
+
+- Badamy [Upsilon Borealis](upsilon-borealis.md), na planecie B znajdujemy
+  projekt R03 (Obce języki programowania).
+- Wynajdujemy Obce języki programowania (R03) oraz Generatory antymaterii (R16).
+- Staramy się przepychać produkcję, ale brakuje tur, żeby wynaleźć skok to
+  wymiaru obcych.
+
+### Bez lądowania.
+
+- (Meta-growo) Zdecydowaliśmy, że kara za dryfowanie jest zbyt mocna i
+  wprowadzamy home-rule, że kara jest tylko, jeśli nie polecimy do nowego
+  układu.
+
+### 🚀 Zarządzanie statkiem (Upsilon Borealis -> Świat gości)
+
+- Ze względu na B06 dostajemy możliwość skoku to świata gości.
+- Produkcja (ulepszone silniki B02), rekturacja, dyplomacja.
+
+### 🪐 Lądowanie w Świecie Gości (L6)
+
+- Lądujemy #p85 -> #p91
+- Badamy **Synapsowe wzgórza** (1/P370) -> #p121.  
+  Nawigujemy -> #p137 -> #p141, przechodząc do 2.
+- Badamy **Zakrzywioną przestrzeń** (2/P371) -> #p154 (2 wsk techn obc).
+  Nawigujemy #p159 w bok -> #p173. Wszystko się obraca i pojawia się P372 w 1
+- Badamy **Pulsujące wypustki** (2/P373) -> #p196.  
+  Nawigujemy #p243 w bok -> #p256
+- Tak kombinujemy, by P373 było w 2, wtedy badamy -> #p239
+- Wreszcie idziemy do 4 -> #p209, po czym dzieje się masa zmian na planszy i
+  pojawia się **Zachwycony gość**...
+- Budujemy postrerunek w 4/P374 -> #p262, zamienia się na P375
+
+SAVE: patrz [Świat gości](./swiat-gosci.md)
