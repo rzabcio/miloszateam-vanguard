@@ -36,7 +36,8 @@
   - [🪐 Lądowanie w Świecie Gości (L6)](#-ldowanie-wwiecie-goci-l6)
 - [2025-05-12](#2025-05-12-1)
   - [🪐 Kontynuujemy w Świecie Gości (L6)](#-kontynuujemy-wwiecie-goci-l6)
-  - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Mu Librae.md)](#-zarzdzanie-statkiem-upsilon-borealis---mu-libraemd)
+  - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Mu Librae)](#-zarzdzanie-statkiem-upsilon-borealis---mu-librae)
+  - [🪐 Lądowanie w B -- Musspelheim (L6)](#-ldowanie-wb----musspelheim-l6)
 
 <!-- mtoc-end -->
 
@@ -337,7 +338,14 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 - W końcu docieramy do 8 -> #p219 -> #p228  
   -> #p56 Wynajdujemy **Zbiór stel**
 
-### 🚀 Zarządzanie statkiem (Upsilon Borealis -> [Mu Librae](./mu_librae).md)
+### 🚀 Zarządzanie statkiem (Upsilon Borealis -> [Mu Librae](./mu_librae.md))
 
 - Pierwsze co, to wynajdujemy to kolejną stelę: **Transmisję w tle**
-- Lecimy do Mu Librae
+- Lecimy do Mu Librae, nawiązujemy kontakt w B, lądujemy na A.
+- Badamy R10, R20 i R17 **Analiza danych Arrogatorów**  
+  -> B05, współrzędne światostatku
+- Produkujemy C12, C22, C14 (ale już było), C21, C20
+
+SAVE: przed lądowaniem.
+
+### 🪐 Lądowanie w B -- Musspelheim (L6)
