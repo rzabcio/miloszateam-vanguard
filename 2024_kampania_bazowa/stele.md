@@ -10,3 +10,7 @@ Diagram w #55
   -> **Kotwica grawitacyjna** #p2
 - (2025-01-20) Czwarty wybór, zdobyty w Kuzynie (HR 5730)  
   -> **Centralny glif** #p23
+- (2025-06-09) Zdobyte w **Świecie gości**  
+  -> **Klaster stel** #p56 (daje dostęp do #p17)
+- (2025-06-09) dzięki technologii B18 wybieramy  
+  -> **Transmisję w tle** #p17

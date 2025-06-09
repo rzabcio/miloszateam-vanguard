@@ -34,6 +34,9 @@
   - [Bez lądowania.](#bez-ldowania)
   - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Świat gości)](#-zarzdzanie-statkiem-upsilon-borealis---wiat-goci)
   - [🪐 Lądowanie w Świecie Gości (L6)](#-ldowanie-wwiecie-goci-l6)
+- [2025-05-12](#2025-05-12-1)
+  - [🪐 Kontynuujemy w Świecie Gości (L6)](#-kontynuujemy-wwiecie-goci-l6)
+  - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Mu Librae.md)](#-zarzdzanie-statkiem-upsilon-borealis---mu-libraemd)
 
 <!-- mtoc-end -->
 
@@ -321,6 +324,20 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 - Tak kombinujemy, by P373 było w 2, wtedy badamy -> #p239
 - Wreszcie idziemy do 4 -> #p209, po czym dzieje się masa zmian na planszy i
   pojawia się **Zachwycony gość**...
-- Budujemy postrerunek w 4/P374 -> #p262, zamienia się na P375
 
-SAVE: patrz [Świat gości](./swiat-gosci.md)
+## 2025-05-12
+
+### 🪐 Kontynuujemy w Świecie Gości (L6)
+
+- Budujemy postrerunek w 4/P374 -> #p262, zamienia się na P375
+- Badamy 5 -> #p313 -> zmienia się na P377 **Olbrzymie gmachy** -> następnie
+  #p363 -> zmienia się na P378 -> #p375 -> #p144 -> #p752 -> #p757
+- Badamy 7 -> #p270 -> zmienia się na P376 -> #p274 -> unikalny okaz 35
+- Badamy 6 -> #p225 -> zmienia się na P380 -> #p271 -> #p278
+- W końcu docieramy do 8 -> #p219 -> #p228  
+  -> #p56 Wynajdujemy **Zbiór stel**
+
+### 🚀 Zarządzanie statkiem (Upsilon Borealis -> [Mu Librae](./mu_librae).md)
+
+- Pierwsze co, to wynajdujemy to kolejną stelę: **Transmisję w tle**
+- Lecimy do Mu Librae

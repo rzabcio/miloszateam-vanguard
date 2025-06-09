@@ -5,6 +5,7 @@
 - #p35 ▣ ▢
 - #p40 ▣ ▣ ▢
 - #p44 ▣
+- #p56 ▣
 - #p85 A:▣ B:▣
 - #p114 ▣
 - #p140 ▣ ▣ ▣
@@ -20,9 +21,11 @@
 - #p242 ▣
 - #p245 ▣ ▣
 - #p267 ▣
+- #p274 ▣
 - #p291 ▣
 - #p323 ▣
 - #p368 ▣ ▣ ▣ (A+B+C)
+- #p375 ▣ ▢
 - #p379 ▣
 - #p428 ▣
 - #p444 ▣ ▣
@@ -41,5 +44,5 @@
 - #p878 ▣
 - #p883 ▣
 - #p905 ▣ ▣ ▣ ▣ ▣ ▣
-- #p910 ▣ ▢ ▢ (dołączył do nas Idemiański ambasador)
+- #p910 ▣ ▣ ▢ (dołączył do nas Idemiański ambasador)
 - #p920 ▣ ▢ (pokojowy, dyplomatyczny rozwój)
