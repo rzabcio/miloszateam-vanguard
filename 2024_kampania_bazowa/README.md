@@ -2,42 +2,42 @@
 
 <!-- mtoc-start -->
 
-- [2024-07-??](#2024-07-)
-- [2024-07-25](#2024-07-25)
-- [2024-07-29](#2024-07-29)
-  - [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b)
-- [2024-08-05](#2024-08-05)
-  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem)
-  - [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b-1)
-  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-1)
-  - [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b-2)
-- [2024-08-27](#2024-08-27)
-  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-2)
-  - [🪐 Lądowanie na Zapałce (Nu4 Ceti B)](#-ldowanie-na-zapace-nu4-ceti-b)
-- [2024-09-02](#2024-09-02)
-  - [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-3)
-  - [🪐 Lądowanie na Zapałce (Nu4 Ceti B)](#-ldowanie-na-zapace-nu4-ceti-b-1)
-- [2024-10-24](#2024-10-24)
-  - [🚀 Zarządzanie statkiem](#-zarzdzanie-statkiem-4)
-  - [🪐 Lądowanie na Burzogromie](#-ldowanie-na-burzogromie)
-- [2024-11-04](#2024-11-04)
-  - [🚀 Zarządzanie statkiem](#-zarzdzanie-statkiem-5)
-  - [🪐 Lądowanie na Burzogromie (Kepler 831)](#-ldowanie-na-burzogromie-kepler-831)
-- [2024-11-25](#2024-11-25)
-  - [🚀 Zarządzanie statkiem (Kepler 831 -> Gliese 368-2)](#-zarzdzanie-statkiem-kepler-831---gliese-368-2)
-  - [🪐 Lądowanie na Idemiańskiej koterii (Gliese 368-2)](#-ldowanie-na-idemiaskiej-koterii-gliese-368-2)
-- [2025-01-20](#2025-01-20)
-  - [🚀 Zarządzanie statkiem (Gliese 368-2 -> 12 Leonis -> HR 5730)](#-zarzdzanie-statkiem-gliese-368-2---12-leonis---hr-5730)
-  - [🪐 Lądowanie na Kuzynie (HR 5730)](#-ldowanie-na-kuzynie-hr-5730)
-- [2025-05-12](#2025-05-12)
-  - [🚀 Zarządzanie statkiem (HR 5730 -> Upsilon Borealis)](#-zarzdzanie-statkiem-hr-5730---upsilon-borealis)
-  - [Bez lądowania.](#bez-ldowania)
-  - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Świat gości)](#-zarzdzanie-statkiem-upsilon-borealis---wiat-goci)
-  - [🪐 Lądowanie w Świecie Gości (L6)](#-ldowanie-wwiecie-goci-l6)
-- [2025-05-12](#2025-05-12-1)
-  - [🪐 Kontynuujemy w Świecie Gości (L6)](#-kontynuujemy-wwiecie-goci-l6)
-  - [🚀 Zarządzanie statkiem (Upsilon Borealis -> Mu Librae)](#-zarzdzanie-statkiem-upsilon-borealis---mu-librae)
-  - [🪐 Lądowanie w B -- Musspelheim (L6)](#-ldowanie-wb----musspelheim-l6)
+* [2024-07-??](#2024-07-)
+* [2024-07-25](#2024-07-25)
+* [2024-07-29](#2024-07-29)
+  * [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b)
+* [2024-08-05](#2024-08-05)
+  * [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem)
+  * [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b-1)
+  * [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-1)
+  * [🪐 Lądowanie na 81-Inf B.](#-ldowanie-na-81-inf-b-2)
+* [2024-08-27](#2024-08-27)
+  * [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-2)
+  * [🪐 Lądowanie na Zapałce (Nu4 Ceti B)](#-ldowanie-na-zapace-nu4-ceti-b)
+* [2024-09-02](#2024-09-02)
+  * [🚀 Zarządzanie statkiem.](#-zarzdzanie-statkiem-3)
+  * [🪐 Lądowanie na Zapałce (Nu4 Ceti B)](#-ldowanie-na-zapace-nu4-ceti-b-1)
+* [2024-10-24](#2024-10-24)
+  * [🚀 Zarządzanie statkiem](#-zarzdzanie-statkiem-4)
+  * [🪐 Lądowanie na Burzogromie](#-ldowanie-na-burzogromie)
+* [2024-11-04](#2024-11-04)
+  * [🚀 Zarządzanie statkiem](#-zarzdzanie-statkiem-5)
+  * [🪐 Lądowanie na Burzogromie (Kepler 831)](#-ldowanie-na-burzogromie-kepler-831)
+* [2024-11-25](#2024-11-25)
+  * [🚀 Zarządzanie statkiem (Kepler 831 -> Gliese 368-2)](#-zarzdzanie-statkiem-kepler-831---gliese-368-2)
+  * [🪐 Lądowanie na Idemiańskiej koterii (Gliese 368-2)](#-ldowanie-na-idemiaskiej-koterii-gliese-368-2)
+* [2025-01-20](#2025-01-20)
+  * [🚀 Zarządzanie statkiem (Gliese 368-2 -> 12 Leonis -> HR 5730)](#-zarzdzanie-statkiem-gliese-368-2---12-leonis---hr-5730)
+  * [🪐 Lądowanie na Kuzynie (HR 5730)](#-ldowanie-na-kuzynie-hr-5730)
+* [2025-05-12](#2025-05-12)
+  * [🚀 Zarządzanie statkiem (HR 5730 -> Upsilon Borealis)](#-zarzdzanie-statkiem-hr-5730---upsilon-borealis)
+  * [Bez lądowania.](#bez-ldowania)
+  * [🚀 Zarządzanie statkiem (Upsilon Borealis -> Świat gości)](#-zarzdzanie-statkiem-upsilon-borealis---wiat-goci)
+  * [🪐 Lądowanie w Świecie Gości (L6)](#-ldowanie-wwiecie-goci-l6)
+* [2025-06-09](#2025-06-09)
+  * [🪐 Kontynuujemy w Świecie Gości (L6)](#-kontynuujemy-wwiecie-goci-l6)
+  * [🚀 Zarządzanie statkiem (Upsilon Borealis -> Mu Librae)](#-zarzdzanie-statkiem-upsilon-borealis---mu-librae)
+  * [🪐 Lądowanie w B -- Musspelheim (L6)](#-ldowanie-wb----musspelheim-l6)
 
 <!-- mtoc-end -->
 
@@ -326,7 +326,7 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 - Wreszcie idziemy do 4 -> #p209, po czym dzieje się masa zmian na planszy i
   pojawia się **Zachwycony gość**...
 
-## 2025-05-12
+## 2025-06-09
 
 ### 🪐 Kontynuujemy w Świecie Gości (L6)
 
@@ -349,3 +349,19 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 SAVE: przed lądowaniem.
 
 ### 🪐 Lądowanie w B -- Musspelheim (L6)
+
+- Odprawa: #p477, misja M130
+- Badamy 6: P299 -> P290
+- Badamy 1:
+- Badamy 2: #p179
+- Badamy 3: pojawia sie osobnik alpha, zabijamy go -> #p438
+- Badamy 4: P296 -> P297
+- Wracamy do 3: gdzie okazuje sie, ze potrzebujemy okaz technologii obcych oraz
+  zywy okaz, by polozyc znacznik na polach 4/5, by zyskac unikalne odkrycia
+  na polu 4/P297, misja M132
+- Udaje nam sie, dostajemy unikalne okrycia 19, 20, 21 -> misja M134
+- Odlatujemy: #p276 (bez zapisu, bo planeta jest nieeksplorowalna)
+- Rozladujemy unikalne odkrycia: #p745, #p747, #p749 -> #p752
+
+SAVE: po rozladunku:
+- przejrzec zebrane odkrycia i ew. odrzucic na inne odkrycia lub energie
