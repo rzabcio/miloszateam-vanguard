@@ -37,7 +37,8 @@
 * [2025-06-09](#2025-06-09)
   * [🪐 Kontynuujemy w Świecie Gości (L6)](#-kontynuujemy-wwiecie-goci-l6)
   * [🚀 Zarządzanie statkiem (Upsilon Borealis -> Mu Librae)](#-zarzdzanie-statkiem-upsilon-borealis---mu-librae)
-  * [🪐 Lądowanie w B -- Musspelheim (L6)](#-ldowanie-wb----musspelheim-l6)
+* [2025-12-01](#2025-12-01)
+  * [🪐 Lądowanie w A -- Musspelheim (L12)](#-ldowanie-wa----musspelheim-l12)
 
 <!-- mtoc-end -->
 
@@ -348,7 +349,9 @@ w #p920). Zrobiliśmy już jednak powrót i rozładunek.
 
 SAVE: przed lądowaniem.
 
-### 🪐 Lądowanie w B -- Musspelheim (L6)
+## 2025-12-01
+
+### 🪐 Lądowanie w A -- Musspelheim (L12)
 
 - Odprawa: #p477, misja M130
 - Badamy 6: P299 -> P290
